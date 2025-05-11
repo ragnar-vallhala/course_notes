@@ -1,0 +1,40 @@
+\usetheme{CambridgeUS}
+\usecolortheme{dolphin}
+\usefonttheme{serif}
+
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\setbeamertemplate{navigation symbols}{}
+
+
+\title{Introduction to Python}
+\subtitle{Fun with Coding!}
+\author{Robogen}
+
+\date{\today}
+\lstset{
+	language=Python,
+	basicstyle=\ttfamily\footnotesize,
+	keywordstyle=\color{blue},
+	commentstyle=\color{codegreen},
+	stringstyle=\color{codepurple},
+	numberstyle=\tiny\color{codegray},
+	numbers=left,
+	numbersep=5pt,
+	showstringspaces=false,
+	breaklines=true,
+	backgroundcolor=\color{backcolour},
+	frame=single,
+	rulecolor=\color{black!30},
+	tabsize=4,
+	escapeinside={\%*}{*)},
+	firstnumber=1
+}
+
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\heading}[1]{\textbf{\large #1}}
