@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1747001793.23013 "/home/ragnar/Documents/ROBOGEN/course_notes/6-8/main.tex" "main.pdf" "main" 1747001795.11269 0
+["pdflatex"] 1747001876.66099 "/home/ragnar/Documents/ROBOGEN/course_notes/6-8/main.tex" "main.pdf" "main" 1747001878.42297 0
   "/home/ragnar/Documents/ROBOGEN/course_notes/6-8/main.tex" 1747001018.15838 414 e85c85be9e8254ea6f078830c05b61e7 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -208,12 +208,12 @@
   "/usr/local/texlive/2025/texmf.cnf" 1744922821.34341 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "figs/python-logo.png" 1747001511.52632 484366 99c5cd403a410fdca4723dfa89880b21 ""
   "figs/robogen-logo.png" 1747001616.56652 1030491 76ce41b297d004426f62ae960da31a23 ""
-  "main.aux" 1747001795.02856 2721 39dfb1a703fd41eed37a4ba3354f8f1f "pdflatex"
-  "main.nav" 1747001795.02956 1305 fa478f262782f8fdaf3cc053bb9c2fe9 "pdflatex"
-  "main.out" 1747001794.00553 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1747001878.34226 2721 39dfb1a703fd41eed37a4ba3354f8f1f "pdflatex"
+  "main.nav" 1747001878.34226 1305 fa478f262782f8fdaf3cc053bb9c2fe9 "pdflatex"
+  "main.out" 1747001877.37723 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1747001018.15838 414 e85c85be9e8254ea6f078830c05b61e7 ""
-  "main.vrb" 1747001794.88656 350 a8713b0e21b4fc0527a968735e744d6a "pdflatex"
-  "preamble.tex" 1747001424.18617 917 3db5d65978861e506c06d24b3f62f312 ""
+  "main.vrb" 1747001878.20726 350 a8713b0e21b4fc0527a968735e744d6a "pdflatex"
+  "preamble.tex" 1747001876.4322 917 4cbb28835f042399acd29eab3b92ef84 ""
   "slides/01_slide.tex" 1747001793.0265 221 9a59ce475f8259c5dfb6af4441a213bb ""
   "slides/02_slide.tex" 1746999323.73219 375 1b1da0cad8e4875bbb0ad9168673bd71 ""
   "slides/03_slide.tex" 1746999327.96718 406 a754557fdb8cb7ab8ec97016b624df3a ""
